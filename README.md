@@ -65,6 +65,10 @@ Citations:
     [TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
     .
 
-[^2]: [United States COVID-19 Cases and Deaths by State over Time](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)
+[^2]:
+    [United States COVID-19 Cases and Deaths by State over Time](https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36)
+    .
+
+[^3]: [Covid-19 Timeline](https://www.cdc.gov/museum/timeline/covid19.html)
 
 ---
