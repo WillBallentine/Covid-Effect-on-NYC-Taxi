@@ -39,7 +39,7 @@ If this gives you any trouble I have also listed the libraries below for individ
 - Pyarrow
 - ipykernel
 
-I have included a sample data set called `sample.csv` if you would like to use that. Otherwise, you will need to download the montly Parquet files from the linked NYC Gov site[^1] and use the `taxi_csv_create.ipynb` file to collect a larger dataset.
+I have included a sample data set called `sample.csv` if you would like to use that. If you do, you will need to change the file name in `taxi.ipynb` in the second code block to `assets/sample.csv` for the script to work. Otherwise, you will need to download the montly Parquet files from the linked NYC Gov site[^1] and use the `taxi_csv_create.ipynb` file to collect a larger dataset.
 
 The main file in this project is called `taxi.ipynb` and contains the analysis portion of this project.
 
