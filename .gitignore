@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 **.parquet
-**.csv
+overall_data.csv
