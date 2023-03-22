@@ -9,7 +9,8 @@ Covid-19 had tremendous impact on every aspect of society and much of the restri
 **This project will attempt to answer the following questions:**
 
 - Did the average passenger count go up or down during the pandemic compared to years before 2020.
-- Did the way people paid for rides change during and after the pandemic?
+- Did the payment method for rides change during and after the pandemic?
+- How was the average fare cost per ride affected?
 - How did the pandemic affect the average trip distance?
 - Was tipping affected by the pandemic?
 
