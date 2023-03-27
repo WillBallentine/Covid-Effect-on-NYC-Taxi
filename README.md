@@ -40,7 +40,8 @@ To install these, navigate to the cloned repo folder on your machine in the term
     pip install -r requirements.txt
 
 Or if on Mac run:
-pip3 install -r requirements.txt
+
+    pip3 install -r requirements.txt
 
 If this gives you any trouble I have also listed the libraries below for individual install:
 
