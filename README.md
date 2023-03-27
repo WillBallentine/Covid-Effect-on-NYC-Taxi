@@ -16,6 +16,16 @@ Covid-19 had tremendous impact on every aspect of society and much of the restri
 
 ## Methodology
 
+This project seeks to employ the following feature set to analyze the data:
+
+- Read in data from .CSV files
+- Use built-in Pandas and custom functions to clean and manipulate the data
+- Use built-in Pandas functions to analyze the data
+- Use Matplotlib, Plotly, and Folium to visualize the data
+- Interpret the data in markdown cells after each section and at the end of the notebook
+
+#### Data used
+
 - Taxi Data was taken from the NYC Taxi & Limousine Commission[^1]
 - Covid Data was taken from the CDC [^2]
 
